@@ -1,3 +1,3 @@
-# vue-cli-plugin-seo
+# [WIP] vue-cli-plugin-seo
 
 SEO tools plugin for vue-cli 3
